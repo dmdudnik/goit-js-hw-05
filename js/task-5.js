@@ -1,4 +1,4 @@
-//Напиши класс Car с указанными свойствами и методами.
+// Напиши класс Car с указанными свойствами и методами.
 
 class Car {
   constructor({ speed, maxSpeed, price, isOn, distance }) {
